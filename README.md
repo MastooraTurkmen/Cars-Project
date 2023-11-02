@@ -17,4 +17,10 @@ $ yarn install
 $ yarn start
 ```
 
+_Build command_
+
+```
+npm run build
+```
+
 Head over to https://vitejs.dev/ to learn more about using vite
