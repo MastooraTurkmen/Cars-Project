@@ -10,7 +10,7 @@
 
 ![Alt text](./screenshots/Screenshot-3.png)
 
-![Alt text](Screenshot-4.png)
+![Alt text](./screenshots/Screenshot-4.png)
 
 Quick start:
 
