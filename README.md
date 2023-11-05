@@ -4,7 +4,7 @@
 
 > There are 15 cars that match your criteria
 
-![Alt text](Screenshot-1.png)
+![Alt text](./screenshots/Screenshot-1.png)
 
 ![Alt text](<Screenshot 2.png>)
 
