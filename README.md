@@ -6,7 +6,7 @@
 
 ![Alt text](./screenshots/Screenshot-1.png)
 
-![Alt text](<Screenshot 2.png>)
+![Alt text](./screenshots/Screenshot 2.png)
 
 ![Alt text](Screenshot-3.png)
 
