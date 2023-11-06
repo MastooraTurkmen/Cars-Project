@@ -32,3 +32,8 @@
 
 
 ## For cloning the project 🪛
+
+```
+# Clone this repository
+
+```
