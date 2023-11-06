@@ -37,5 +37,5 @@
 # Clone this repository
 $ gh repo clone MastooraTurkmen/Cars-Project
 
-
+# Go inside the repository
 ```
