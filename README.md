@@ -13,6 +13,9 @@
 ![Alt text](./screenshots/Screenshot-4.png)
 
 
+-----
+
+
 ## Languages and Tools are used
 
 1. **Languages**
@@ -55,6 +58,7 @@ $ cd cars-project
 -----
 
 ## Author 👩🏻‍💻 
+
 **Mastoora Turkmen**  
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
 [Github](https://github.com/MastooraTurkmen/) 
