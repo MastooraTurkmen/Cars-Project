@@ -5,19 +5,20 @@
 > There are 15 cars that match your criteria
 
 
-### Descktop
+### Mobile
 
+![Alt text](./screenshots/Screenshot-3.png)
+
+![Alt text](./screenshots/Screenshot-4.png)
+
+
+### Descktop
 
 ![Alt text](./screenshots/Screenshot-1.png)
 
 ![Alt text](./screenshots/Screenshot-2.png)
 
 
-### Mobile
-
-![Alt text](./screenshots/Screenshot-3.png)
-
-![Alt text](./screenshots/Screenshot-4.png)
 
 
 -----
