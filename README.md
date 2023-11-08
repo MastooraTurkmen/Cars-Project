@@ -42,7 +42,7 @@
 -----
 
 
-## For cloning the project 🪛
+## For cloning the project 🪛 📌
 
 ```
 # Clone this repository
@@ -52,7 +52,7 @@ $ gh repo clone MastooraTurkmen/Cars-Project
 $ cd cars-project
 ```
 
-## Deployment📥
+## Deployment 📥 📦
 
 1. How to deploy our project to netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
