@@ -12,7 +12,7 @@
 ![Alt text](./screenshots/Screenshot-4.png)
 
 
-### Descktop
+### Descktop 💻
 
 ![Alt text](./screenshots/Screenshot-1.png)
 
