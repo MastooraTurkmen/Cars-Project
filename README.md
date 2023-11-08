@@ -12,6 +12,8 @@
 ![Alt text](./screenshots/Screenshot-4.png)
 
 
+### Tablet 
+
 ### Descktop 💻
 
 ![Alt text](./screenshots/Screenshot-1.png)
