@@ -16,7 +16,7 @@
 
 ### Tablet 📱 💻
 
-![Alt text](tablet.png)
+![Alt text](./screenshots/tablet.png)
 ![Alt text](tablet-1.png)
 
 
