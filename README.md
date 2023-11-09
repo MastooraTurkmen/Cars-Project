@@ -17,7 +17,7 @@
 ### Tablet 📱 💻
 
 ![Alt text](./screenshots/tablet.png)
-![Alt text](tablet-1.png)
+![Alt text](./screenshots/tablet-1.png)
 
 
 ### Descktop 💻
