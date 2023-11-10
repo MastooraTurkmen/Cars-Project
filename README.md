@@ -43,7 +43,7 @@ Following, we wanna show you few of them.
 
 3. 2004 Dodge Ram 4x4
   + 9104 Falsety Ave AnonyVille, FL 40440
-  + $37,490
+  + $7,998
 
 4. 2021 Tesla Model 3
   + 993 Fiscal St Boulder, CO 93391
