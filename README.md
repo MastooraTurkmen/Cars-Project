@@ -47,6 +47,7 @@ Following, we wanna show you few of them.
 
 4. 2021 Tesla Model 3
   + 301 Fantasy Dr Beverly Hills, CA 90210
+  + $37,490
 
 
 
