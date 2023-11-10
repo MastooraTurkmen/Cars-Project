@@ -50,7 +50,7 @@ Following, we wanna show you few of them.
   + $37,490
 
 5. 2012 Toyota Tundra 4x4
-  + 
+  + 301 Fantasy Dr Beverly Hills, CA 90210
 
 
 
