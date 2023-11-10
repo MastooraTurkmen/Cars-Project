@@ -30,7 +30,8 @@
 -----
 
 ### _Available Cars_
-There are 15 nice **_Cars_** that match your criteria. Following, we wanna show you few of them. 
+There are 15 nice **_Cars_** that match your criteria. 
+Following, we wanna show you few of them. 
 
 1. 2017 Toyota Highlander V4
   + Youngstown, OH 44481
