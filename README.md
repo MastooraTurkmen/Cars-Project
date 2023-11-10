@@ -42,7 +42,7 @@ Following, we wanna show you few of them.
   + $23,900
 
 3. 2004 Dodge Ram 4x4
-  + 993 Fiscal St Boulder, CO 93391
+  + 9104 Falsety Ave AnonyVille, FL 40440
   + $37,490
 
 4. 2021 Tesla Model 3
@@ -50,7 +50,7 @@ Following, we wanna show you few of them.
   + $37,490
 
 5. 2012 Toyota Tundra 4x4
- 
+  + 
 
 
 
