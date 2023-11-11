@@ -37,32 +37,32 @@ _**CAR DETAILS **_       _**LOCATION**_          _**PRICE**_
 
 
 1. 2017 Toyota Highlander V4
-  + Youngstown, OH 44481
-  + $17,400
+    + Youngstown, OH 44481
+    + $17,400
 
 2. 2012 Toyota Tundra 4x4
-  + 301 Fantasy Dr Beverly Hills, CA 90210
-  + $23,900
+    + 301 Fantasy Dr Beverly Hills, CA 90210
+    + $23,900
 
 3. 2004 Dodge Ram 4x4
-  + 9104 Falsety Ave AnonyVille, FL 40440
-  + $7,998
+    + 9104 Falsety Ave AnonyVille, FL 40440
+    + $7,998
 
 4. 2021 Tesla Model 3
-  + 993 Fiscal St Boulder, CO 93391
-  + $37,490
+    + 993 Fiscal St Boulder, CO 93391
+    + $37,490
 
 5. 2012 Toyota Tundra 4x4
-  + 301 Fantasy Dr Beverly Hills, CA 90210
-  + $23,900
+    + 301 Fantasy Dr Beverly Hills, CA 90210
+    + $23,900
 
 6. 2004 Dodge Ram 4x4
-  + 9104 Falsety Ave AnonyVille, FL 40440
-  + $7,998
+    + 9104 Falsety Ave AnonyVille, FL 40440
+    + $7,998
 
 7. 2021 Tesla Model 3
-  + 993 Fiscal St Boulder, CO 93391
-  + $37,490
+    + 993 Fiscal St Boulder, CO 93391
+    + $37,490
 
 ------
 
