@@ -53,7 +53,7 @@ Following, we wanna show you few of them.
   + 301 Fantasy Dr Beverly Hills, CA 90210
   + $23,900
 
-
+6. 2004 Dodge Ram 4x4
 
 
 
