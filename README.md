@@ -33,7 +33,7 @@
 There are 15 nice **_Cars_** that match your criteria. 
 Following, we wanna show you few of them. 
 
-_**CAR DETAILS **_ 
+_**CAR DETAILS **_  _**LOCATION**_
 
 
 1. 2017 Toyota Highlander V4
