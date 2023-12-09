@@ -24,16 +24,17 @@
 
 ![Alt text](./screenshots/Screenshot-1.png)
 
-![Alt text](./screenshots/Screenshot 2.png)
+![Alt text](./screenshots/Screenshot-2.png)
 
 
 -----
 
 ### _Available Cars_
+
 There are 15 nice **_Cars_** that match your criteria. 
 Following, we wanna show you few of them. 
 
-_**CAR DETAILS **_       _**LOCATION**_          _**PRICE**_
+***CAR DETAILS--LOCATION--PRICE***
 
 
 1. 2017 Toyota Highlander V4
